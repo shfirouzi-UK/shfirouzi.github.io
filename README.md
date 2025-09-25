@@ -1,2 +1,2 @@
 # shfirouzi.github.io
-CROSS UK reports translated in Persian
+CROSS UK reports translated into Persian
